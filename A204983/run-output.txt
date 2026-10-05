@@ -1,0 +1,7 @@
+UTC: 2026-10-05T15:12:27.351393+00:00
+Python: 3.12.14
+{
+  "checked_n": 300,
+  "least_pair_mismatches": [],
+  "a_20": 60
+}

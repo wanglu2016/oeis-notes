@@ -1,0 +1,9 @@
+UTC: 2026-10-05T15:12:27.850528+00:00
+Python: 3.12.14
+SymPy: 1.14.0
+Target numerator: 102
+Maximum d: 4476
+Admissible (d, g) candidates: 29538
+Solutions (k, d, g): []
+Result: -1
+Elapsed seconds: 0.452573
